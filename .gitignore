@@ -58,3 +58,4 @@ android/gradlew.bat
 .settings/
 msbuild.binlog
 example/msbuild.binlog
+/lib/
